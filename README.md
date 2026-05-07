@@ -108,7 +108,7 @@ After downloading, place the CSV in the root folder and open the `.pbix` file in
 
 ## 👤 Author
 
-**Laiba** — CS Student  
+**Laiba Afridi** — CS Student  
 Interested in Data Analytics, Business Intelligence, and the Energy Sector  
 📧 Open to internship opportunities in data analytics
 
